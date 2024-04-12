@@ -1,0 +1,16 @@
+Package: singlepointrnacli
+Title: Tools to Analyze Single Cell RNA-seq Data.
+Version: 0.1.0.9000
+Authors@R: c(
+    person("Laura", "Puente-Santamaría",role = c("aut")),
+    person("Genís", "Martínez", email="genis.martinez@biotechvana.com", role = "cre"))
+Description: The aim of SinglePoint RNA is to provide an accessible and transparent tool set to researchers that allows them to perform detailed and custom analysis of their data autonomously.
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+URL: https://github.com/biotechvana/SinglePointRNA-cli
+BugReports: https://github.com/biotechvana/SinglePointRNA-cli/issues
+Depends: 
+    R (>= 2.10)
+LazyData: true
